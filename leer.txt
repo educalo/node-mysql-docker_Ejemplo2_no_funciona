@@ -1,0 +1,20 @@
+1.- Mirar fichero inde.js
+2.- Seguir la secuencia del fichero readme.md
+3.- Mirar fichero Dockerfile
+4.- En el fichero docker-compose tenemos la secuenta de ejecución de nuestro contenedor
+
+5.- Hace falta instalar docker o docker hub
+6.- en una terminal dentro del proyecto poner docker-compose up
+
+7.- poner en un navegador web, no me funciona con el contenedor????????????????
+    localhost:3000
+    localhost:3000/connect
+    localhost:3000/create-table
+    localhost:3000/insert
+    localhost:3000/fetch
+
+
+8.- Para parar el composer poner: docker-compose down
+
+9.- Si lo arranco con el nodemon app.js si funciona?????????
+10.- Tengo que tener creado en xampp la bd test1 y usuario: usuario con contraseña usuario en privilegios
